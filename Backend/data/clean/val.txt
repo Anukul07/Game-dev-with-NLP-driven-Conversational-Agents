@@ -1,0 +1,1274 @@
+<CONTEXT> Morning sun felt warmer than usual; everyone kept to their chores. Some said the west gate hinges squeaked louder than usual.
+<PLAYER> Tom, sorry if I sounded off before. Any trouble near the garden?
+<NPC>(Tom) Need something fixed? Point me at it and mind your fingers.
+<END>
+
+<CONTEXT> Player apologized to Jacky by the gate; a couple of traders noticed.
+<PLAYER> Sarah, is Father Jacob inside the church now? Need me to carry something?
+<NPC>(Sarah) Morning, Acool. Need eggs or just company?
+<END>
+
+<CONTEXT> Someone claimed the well water tasted sweeter today; folks nodded.
+<PLAYER> Jacky, want a cup while you’re on post?
+<NPC>(Jacky) Leave it by the hinge. I’ll drink between glances.
+<END>
+
+<CONTEXT> Player apologized to Tom near the scaffolding; laborers passed the word along. Talk spread about a fox sighting near Sarah’s fields.
+<PLAYER> Sarah, I’ve been trying to make things right. Need me to carry something?
+<NPC>(Sarah) I heard about the fox. I’ll keep the coop latched tight.
+<END>
+
+<CONTEXT> Morning sun felt warmer than usual; everyone kept to their chores.
+<PLAYER> Good morning, Sarah. Got a minute? Any trouble near the garden?
+<NPC>(Sarah) Morning, Acool. Need eggs or just company?
+<END>
+
+<CONTEXT> Player was rude to Father Jacob this morning. Rumors spread quickly among the villagers. A rumor said a merchant wagon might arrive tomorrow.
+<PLAYER> Tom, any news I should know? Need me to carry something?
+<NPC>(Tom) Patch that up with the Father. Then come help me square this beam.
+<END>
+
+<CONTEXT> Player complimented Sarah’s hens; the porch chat turned cheerful. They whispered that the bell rope frayed again at the church.
+<PLAYER> Sarah, is Father Jacob inside the church now? Think I should speak to Father Jacob?
+<NPC>(Sarah) They like the morning sun as much as I do. Thanks for noticing.
+<END>
+
+<CONTEXT> Player dismissed Tom’s repair advice behind the church. News traveled with the workers. People said Mr Dawson might sponsor fresh paint for the fence.
+<PLAYER> Father Jacob, what’s Tom fixing behind the church? Think I should speak to Father Jacob?
+<NPC>(Father Jacob) The doors are open. What weighs on you this morning?
+<END>
+
+<CONTEXT> Someone claimed the well water tasted sweeter today; folks nodded. A rumor said a merchant wagon might arrive tomorrow.
+<PLAYER> Hey Sarah, about earlier—are we okay? Need me to carry something?
+<NPC>(Sarah) Morning, Acool. Need eggs or just company?
+<END>
+
+<CONTEXT> The village talked about a stray dog in the east lane; nothing serious. They whispered that the bell rope frayed again at the church.
+<PLAYER> Hello Tom. Need a hand with anything? Need me to carry something?
+<NPC>(Tom) Need something fixed? Point me at it and mind your fingers.
+<END>
+
+<CONTEXT> Player apologized to Jacky by the gate; a couple of traders noticed. They whispered that the bell rope frayed again at the church.
+<PLAYER> Mr Dawson, how’s your morning going? Any trouble near the garden?
+<NPC>(Mr Dawson) The garden is calm. Reputation, like roses, rewards patience.
+<END>
+
+<CONTEXT> Someone claimed the well water tasted sweeter today; folks nodded.
+<PLAYER> Hey Tom, about earlier—are we okay? Think I should speak to Father Jacob?
+<NPC>(Tom) Need something fixed? Point me at it and mind your fingers.
+<END>
+
+<CONTEXT> Player was rude to Father Jacob this morning. Rumors spread quickly among the villagers.
+<PLAYER> Hey Mr Dawson, about earlier—are we okay? Think I should speak to Father Jacob?
+<NPC>(Mr Dawson) A word with the priest would heal more than your standing.
+<END>
+
+<CONTEXT> Player tidied hymn books for Father Jacob; early visitors smiled.
+<PLAYER> Jacky, where’s the busiest spot today? Need me to carry something?
+<NPC>(Jacky) Routine morning. Stay clear of the hedge and keep your word.
+<END>
+
+<CONTEXT> The village talked about a stray dog in the east lane; nothing serious. A rumor said a merchant wagon might arrive tomorrow.
+<PLAYER> Father Jacob, how are the chickens holding up? Think I should speak to Father Jacob?
+<NPC>(Father Jacob) The doors are open. What weighs on you this morning?
+<END>
+
+<CONTEXT> Someone claimed the well water tasted sweeter today; folks nodded.
+<PLAYER> Mr Dawson, where’s the busiest spot today? Think I should speak to Father Jacob?
+<NPC>(Mr Dawson) The garden is calm. Reputation, like roses, rewards patience.
+<END>
+
+<CONTEXT> Someone claimed the well water tasted sweeter today; folks nodded.
+<PLAYER> Good morning, Tom. Got a minute? Need me to carry something?
+<NPC>(Tom) Need something fixed? Point me at it and mind your fingers.
+<END>
+
+<CONTEXT> Player returned Mr Dawson’s dropped handkerchief; the gardener mentioned it to the neighbors.
+<PLAYER> Good morning, Tom. Got a minute? Is the west gate still squeaking?
+<NPC>(Tom) Need something fixed? Point me at it and mind your fingers.
+<END>
+
+<CONTEXT> A rumor said a merchant wagon might arrive tomorrow.
+<PLAYER> Tom, let’s brace the muddy patch before wheels sink.
+<NPC>(Tom) Planks and gravel. Meet me in five.
+<END>
+
+<CONTEXT> Player was rude to Father Jacob this morning. Rumors spread quickly among the villagers. They whispered that the bell rope frayed again at the church.
+<PLAYER> Tom, how are the chickens holding up? Heard anything about the fox?
+<NPC>(Tom) Patch that up with the Father. Then come help me square this beam.
+<END>
+
+<CONTEXT> Someone claimed the well water tasted sweeter today; folks nodded.
+<PLAYER> Jacky, did you hear that rumor about the wagon? Is the west gate still squeaking?
+<NPC>(Jacky) Routine morning. Stay clear of the hedge and keep your word.
+<END>
+
+<CONTEXT> The village talked about a stray dog in the east lane; nothing serious.
+<PLAYER> Tom, is Mr Dawson in the garden today? Need me to carry something?
+<NPC>(Tom) Need something fixed? Point me at it and mind your fingers.
+<END>
+
+<CONTEXT> Player apologized to Father Jacob at the church door and was heard by visitors.
+<PLAYER> Sarah, it’s settled. He forgave me.
+<NPC>(Sarah) Then take a slice of calm with your morning.
+<END>
+
+<CONTEXT> Player stood guard with Jacky for a minute; a stablehand noticed.
+<PLAYER> Jacky, shift change at the hour?
+<NPC>(Jacky) At the bell. Don’t let me miss it.
+<END>
+
+<CONTEXT> Someone claimed the well water tasted sweeter today; folks nodded.
+<PLAYER> Good morning, Father Jacob. Got a minute? Any trouble near the garden?
+<NPC>(Father Jacob) The doors are open. What weighs on you this morning?
+<END>
+
+<CONTEXT> Player dismissed Tom’s repair advice behind the church. News traveled with the workers.
+<PLAYER> Jacky, is Mr Dawson in the garden today? Need me to carry something?
+<NPC>(Jacky) Routine morning. Stay clear of the hedge and keep your word.
+<END>
+
+<CONTEXT> Player helped Tom carry timber behind the church; builders spoke well of it.
+<PLAYER> Jacky, how are the chickens holding up? Heard anything about the fox?
+<NPC>(Jacky) Good lift with Tom. Less wobble at the scaffold now.
+<END>
+
+<CONTEXT> No major events; only light chatter about bread smells near Sarah’s porch.
+<PLAYER> Hey Sarah, about earlier—are we okay? Think I should speak to Father Jacob?
+<NPC>(Sarah) They like the morning sun as much as I do. Thanks for noticing.
+<END>
+
+<CONTEXT> Player spoke bluntly to Mr Dawson by the hedge. Neighbors whispered over the fence.
+<PLAYER> Jacky, I’ll make it right with the old man.
+<NPC>(Jacky) Good. He’s earned your respect ten times over.
+<END>
+
+<CONTEXT> Someone claimed the well water tasted sweeter today; folks nodded. A rumor said a merchant wagon might arrive tomorrow.
+<PLAYER> Jacky, where’s the busiest spot today? Is the west gate still squeaking?
+<NPC>(Jacky) Routine morning. Stay clear of the hedge and keep your word.
+<END>
+
+<CONTEXT> Player helped Tom carry timber behind the church; builders spoke well of it.
+<PLAYER> Sarah, seen Sarah around? Need me to carry something?
+<NPC>(Sarah) Morning, Acool. Need eggs or just company?
+<END>
+
+<CONTEXT> Player returned Mr Dawson’s dropped handkerchief; the gardener mentioned it to the neighbors. Some said the west gate hinges squeaked louder than usual.
+<PLAYER> Sarah, I’ve been trying to make things right. Is the west gate still squeaking?
+<NPC>(Sarah) Morning, Acool. Need eggs or just company?
+<END>
+
+<CONTEXT> Player apologized to Sarah under the balcony; her laughter lightened the mood.
+<PLAYER> Father Jacob, seen Sarah around? Is the west gate still squeaking?
+<NPC>(Father Jacob) The doors are open. What weighs on you this morning?
+<END>
+
+<CONTEXT> Breeze carried the sound of hammering from Tom’s site; routine work.
+<PLAYER> Sarah, is Mr Dawson in the garden today? Is the west gate still squeaking?
+<NPC>(Sarah) Morning, Acool. Need eggs or just company?
+<END>
+
+<CONTEXT> Someone claimed the well water tasted sweeter today; folks nodded.
+<PLAYER> Tom, sorry if I sounded off before. Any trouble near the garden?
+<NPC>(Tom) Need something fixed? Point me at it and mind your fingers.
+<END>
+
+<CONTEXT> Breeze carried the sound of hammering from Tom’s site; routine work. They whispered that the bell rope frayed again at the church.
+<PLAYER> Father Jacob, seen Sarah around? Think I should speak to Father Jacob?
+<NPC>(Father Jacob) The hymn books are tidy; the bell rope needs care again.
+<END>
+
+<CONTEXT> The village talked about a stray dog in the east lane; nothing serious. Talk spread about a fox sighting near Sarah’s fields.
+<PLAYER> Sarah, how’s your morning going? Need me to carry something?
+<NPC>(Sarah) I heard about the fox. I’ll keep the coop latched tight.
+<END>
+
+<CONTEXT> Player snapped at Jacky near the west path. Word reached the garden and church.
+<PLAYER> Sarah, is Mr Dawson in the garden today?
+<NPC>(Sarah) Morning, Acool. Need eggs or just company?
+<END>
+
+<CONTEXT> Player tidied hymn books for Father Jacob; early visitors smiled.
+<PLAYER> Tom, sorry if I sounded off before. Heard anything about the fox?
+<NPC>(Tom) Need something fixed? Point me at it and mind your fingers.
+<END>
+
+<CONTEXT> Player tidied hymn books for Father Jacob; early visitors smiled. A rumor said a merchant wagon might arrive tomorrow.
+<PLAYER> Mr Dawson, I’ve been trying to make things right.
+<NPC>(Mr Dawson) The garden is calm. Reputation, like roses, rewards patience.
+<END>
+
+<CONTEXT> No major events; only light chatter about bread smells near Sarah’s porch. They whispered that the bell rope frayed again at the church.
+<PLAYER> Hey Mr Dawson, about earlier—are we okay?
+<NPC>(Mr Dawson) The garden is calm. Reputation, like roses, rewards patience.
+<END>
+
+<CONTEXT> Player was rude to Father Jacob this morning. Rumors spread quickly among the villagers.
+<PLAYER> Sarah, how’s your morning going? Heard anything about the fox?
+<NPC>(Sarah) They’re good men. Make it right and I’ll save you a slice of bread.
+<END>
+
+<CONTEXT> Player stood guard with Jacky for a minute; a stablehand noticed. People said Mr Dawson might sponsor fresh paint for the fence.
+<PLAYER> Mr Dawson, sorry if I sounded off before. Think I should speak to Father Jacob?
+<NPC>(Mr Dawson) The garden is calm. Reputation, like roses, rewards patience.
+<END>
+
+<CONTEXT> No major events; only light chatter about bread smells near Sarah’s porch. People said Mr Dawson might sponsor fresh paint for the fence.
+<PLAYER> Hello Tom. Need a hand with anything?
+<NPC>(Tom) Need something fixed? Point me at it and mind your fingers.
+<END>
+
+<CONTEXT> Player was rude to Father Jacob this morning. Rumors spread quickly among the villagers.
+<PLAYER> Tom, did you hear that rumor about the wagon?
+<NPC>(Tom) Patch that up with the Father. Then come help me square this beam.
+<END>
+
+<CONTEXT> Player stood guard with Jacky for a minute; a stablehand noticed.
+<PLAYER> Father Jacob, how are the chickens holding up? Any trouble near the garden?
+<NPC>(Father Jacob) The doors are open. What weighs on you this morning?
+<END>
+
+<CONTEXT> Player tidied hymn books for Father Jacob; early visitors smiled. Talk spread about a fox sighting near Sarah’s fields.
+<PLAYER> Good morning, Tom. Got a minute? Is the west gate still squeaking?
+<NPC>(Tom) Need something fixed? Point me at it and mind your fingers.
+<END>
+
+<CONTEXT> Player returned Mr Dawson’s dropped handkerchief; the gardener mentioned it to the neighbors. Talk spread about a fox sighting near Sarah’s fields.
+<PLAYER> Father Jacob, any news I should know? Think I should speak to Father Jacob?
+<NPC>(Father Jacob) The doors are open. What weighs on you this morning?
+<END>
+
+<CONTEXT> Morning sun felt warmer than usual; everyone kept to their chores. Some said the west gate hinges squeaked louder than usual.
+<PLAYER> Good morning, Jacky. Got a minute? Heard anything about the fox?
+<NPC>(Jacky) Routine morning. Stay clear of the hedge and keep your word.
+<END>
+
+<CONTEXT> Player apologized to Jacky by the gate; a couple of traders noticed.
+<PLAYER> Jacky, is Mr Dawson in the garden today? Any trouble near the garden?
+<NPC>(Jacky) Heard you mean it. Keep it steady and we’ll be fine.
+<END>
+
+<CONTEXT> Player made a curt remark about Sarah’s chickens. The balcony talk carried to the square. A rumor said a merchant wagon might arrive tomorrow.
+<PLAYER> Tom, how are the chickens holding up? Need me to carry something?
+<NPC>(Tom) Need something fixed? Point me at it and mind your fingers.
+<END>
+
+<CONTEXT> Morning sun felt warmer than usual; everyone kept to their chores. A rumor said a merchant wagon might arrive tomorrow.
+<PLAYER> Jacky, what’s Tom fixing behind the church? Need me to carry something?
+<NPC>(Jacky) Routine morning. Stay clear of the hedge and keep your word.
+<END>
+
+<CONTEXT> Player was rude to Father Jacob this morning. Rumors spread quickly among the villagers.
+<PLAYER> Sarah, any news I should know?
+<NPC>(Sarah) They’re good men. Make it right and I’ll save you a slice of bread.
+<END>
+
+<CONTEXT> Player tidied hymn books for Father Jacob; early visitors smiled. A rumor said a merchant wagon might arrive tomorrow.
+<PLAYER> Jacky, where’s the busiest spot today? Any trouble near the garden?
+<NPC>(Jacky) Routine morning. Stay clear of the hedge and keep your word.
+<END>
+
+<CONTEXT> No major events; only light chatter about bread smells near Sarah’s porch.
+<PLAYER> Hey Mr Dawson, about earlier—are we okay? Think I should speak to Father Jacob?
+<NPC>(Mr Dawson) The garden is calm. Reputation, like roses, rewards patience.
+<END>
+
+<CONTEXT> Player complimented Sarah’s hens; the porch chat turned cheerful. They whispered that the bell rope frayed again at the church.
+<PLAYER> Sarah, any news I should know? Any trouble near the garden?
+<NPC>(Sarah) They like the morning sun as much as I do. Thanks for noticing.
+<END>
+
+<CONTEXT> Player tidied hymn books for Father Jacob; early visitors smiled. They whispered that the bell rope frayed again at the church.
+<PLAYER> Sarah, any news I should know? Think I should speak to Father Jacob?
+<NPC>(Sarah) Morning, Acool. Need eggs or just company?
+<END>
+
+<CONTEXT> Player apologized to Father Jacob at the church door and was heard by visitors. People said Mr Dawson might sponsor fresh paint for the fence.
+<PLAYER> Mr Dawson, I’ve been trying to make things right. Is the west gate still squeaking?
+<NPC>(Mr Dawson) The garden is calm. Reputation, like roses, rewards patience.
+<END>
+
+<CONTEXT> No major events; only light chatter about bread smells near Sarah’s porch.
+<PLAYER> Mr Dawson, how are the chickens holding up? Any trouble near the garden?
+<NPC>(Mr Dawson) The garden is calm. Reputation, like roses, rewards patience.
+<END>
+
+<CONTEXT> Player apologized to Tom near the scaffolding; laborers passed the word along.
+<PLAYER> Jacky, mind a quick word about the village talk? Any trouble near the garden?
+<NPC>(Jacky) Routine morning. Stay clear of the hedge and keep your word.
+<END>
+
+<CONTEXT> Player was rude to Father Jacob this morning. Rumors spread quickly among the villagers.
+<PLAYER> Jacky, I heard the talk—should I go apologize to Father Jacob?
+<NPC>(Jacky) Yes, do it proper and soon. Respect keeps this gate quiet.
+<END>
+
+<CONTEXT> The village talked about a stray dog in the east lane; nothing serious. They whispered that the bell rope frayed again at the church.
+<PLAYER> Tom, mind a quick word about the village talk? Think I should speak to Father Jacob?
+<NPC>(Tom) Need something fixed? Point me at it and mind your fingers.
+<END>
+
+<CONTEXT> Player apologized to Jacky by the gate; a couple of traders noticed.
+<PLAYER> Father Jacob, sorry if I sounded off before. Is the west gate still squeaking?
+<NPC>(Father Jacob) The doors are open. What weighs on you this morning?
+<END>
+
+<CONTEXT> Player apologized to Father Jacob at the church door and was heard by visitors. Some said the west gate hinges squeaked louder than usual.
+<PLAYER> Sarah, where’s the busiest spot today? Heard anything about the fox?
+<NPC>(Sarah) Morning, Acool. Need eggs or just company?
+<END>
+
+<CONTEXT> Player made a curt remark about Sarah’s chickens. The balcony talk carried to the square.
+<PLAYER> Sarah, sorry if I sounded off before. Heard anything about the fox?
+<NPC>(Sarah) My hens don’t mind, but I do. Try again with some kindness.
+<END>
+
+<CONTEXT> Player dismissed Tom’s repair advice behind the church. News traveled with the workers.
+<PLAYER> Tom, is Father Jacob inside the church now? Need me to carry something?
+<NPC>(Tom) Say sorry, then grab a plank. Work clears the air.
+<END>
+
+<CONTEXT> No major events; only light chatter about bread smells near Sarah’s porch.
+<PLAYER> Father Jacob, any plans for the afternoon?
+<NPC>(Father Jacob) Visits and a quiet reading. Join if your steps are light.
+<END>
+
+<CONTEXT> Player returned Mr Dawson’s dropped handkerchief; the gardener mentioned it to the neighbors. Some said the west gate hinges squeaked louder than usual.
+<PLAYER> Tom, what’s Tom fixing behind the church? Heard anything about the fox?
+<NPC>(Tom) Need something fixed? Point me at it and mind your fingers.
+<END>
+
+<CONTEXT> Player snapped at Jacky near the west path. Word reached the garden and church.
+<PLAYER> Sarah, did you hear that rumor about the wagon? Need me to carry something?
+<NPC>(Sarah) Morning, Acool. Need eggs or just company?
+<END>
+
+<CONTEXT> Morning sun felt warmer than usual; everyone kept to their chores. Talk spread about a fox sighting near Sarah’s fields.
+<PLAYER> Jacky, is Father Jacob inside the church now? Is the west gate still squeaking?
+<NPC>(Jacky) If you see the fox, shout. I’ll handle the gate.
+<END>
+
+<CONTEXT> Player apologized to Father Jacob at the church door and was heard by visitors. Some said the west gate hinges squeaked louder than usual.
+<PLAYER> Good morning, Mr Dawson. Got a minute? Any trouble near the garden?
+<NPC>(Mr Dawson) The garden is calm. Reputation, like roses, rewards patience.
+<END>
+
+<CONTEXT> Player stood guard with Jacky for a minute; a stablehand noticed.
+<PLAYER> Tom, how are the chickens holding up? Think I should speak to Father Jacob?
+<NPC>(Tom) Need something fixed? Point me at it and mind your fingers.
+<END>
+
+<CONTEXT> Player spoke bluntly to Mr Dawson by the hedge. Neighbors whispered over the fence. People said Mr Dawson might sponsor fresh paint for the fence.
+<PLAYER> Father Jacob, any news I should know? Need me to carry something?
+<NPC>(Father Jacob) The doors are open. What weighs on you this morning?
+<END>
+
+<CONTEXT> Player apologized to Tom near the scaffolding; laborers passed the word along. Some said the west gate hinges squeaked louder than usual.
+<PLAYER> Jacky, seen Sarah around? Is the west gate still squeaking?
+<NPC>(Jacky) Routine morning. Stay clear of the hedge and keep your word.
+<END>
+
+<CONTEXT> Player apologized to Sarah under the balcony; her laughter lightened the mood. People said Mr Dawson might sponsor fresh paint for the fence.
+<PLAYER> Mr Dawson, where’s the busiest spot today? Need me to carry something?
+<NPC>(Mr Dawson) The garden is calm. Reputation, like roses, rewards patience.
+<END>
+
+<CONTEXT> The village talked about a stray dog in the east lane; nothing serious. They whispered that the bell rope frayed again at the church.
+<PLAYER> Mr Dawson, how are the chickens holding up? Think I should speak to Father Jacob?
+<NPC>(Mr Dawson) The garden is calm. Reputation, like roses, rewards patience.
+<END>
+
+<CONTEXT> Player tidied hymn books for Father Jacob; early visitors smiled.
+<PLAYER> Jacky, any news I should know?
+<NPC>(Jacky) Routine morning. Stay clear of the hedge and keep your word.
+<END>
+
+<CONTEXT> Player stood guard with Jacky for a minute; a stablehand noticed.
+<PLAYER> Jacky, how are the chickens holding up? Think I should speak to Father Jacob?
+<NPC>(Jacky) Routine morning. Stay clear of the hedge and keep your word.
+<END>
+
+<CONTEXT> No major events; only light chatter about bread smells near Sarah’s porch. A rumor said a merchant wagon might arrive tomorrow.
+<PLAYER> Tom, mind a quick word about the village talk? Heard anything about the fox?
+<NPC>(Tom) Need something fixed? Point me at it and mind your fingers.
+<END>
+
+<CONTEXT> Player complimented Sarah’s hens; the porch chat turned cheerful. Some said the west gate hinges squeaked louder than usual.
+<PLAYER> Jacky, I’ve been trying to make things right. Need me to carry something?
+<NPC>(Jacky) Routine morning. Stay clear of the hedge and keep your word.
+<END>
+
+<CONTEXT> No major events; only light chatter about bread smells near Sarah’s porch.
+<PLAYER> Tom, where’s the busiest spot today? Is the west gate still squeaking?
+<NPC>(Tom) Need something fixed? Point me at it and mind your fingers.
+<END>
+
+<CONTEXT> Morning sun felt warmer than usual; everyone kept to their chores.
+<PLAYER> Jacky, is Mr Dawson in the garden today? Any trouble near the garden?
+<NPC>(Jacky) Routine morning. Stay clear of the hedge and keep your word.
+<END>
+
+<CONTEXT> Player apologized to Tom near the scaffolding; laborers passed the word along. A rumor said a merchant wagon might arrive tomorrow.
+<PLAYER> Sarah, is Mr Dawson in the garden today? Any trouble near the garden?
+<NPC>(Sarah) Morning, Acool. Need eggs or just company?
+<END>
+
+<CONTEXT> Player returned Mr Dawson’s dropped handkerchief; the gardener mentioned it to the neighbors. Some said the west gate hinges squeaked louder than usual.
+<PLAYER> Hey Mr Dawson, about earlier—are we okay? Think I should speak to Father Jacob?
+<NPC>(Mr Dawson) Yes, thank you again for the handkerchief. Small graces matter.
+<END>
+
+<CONTEXT> Player apologized to Father Jacob at the church door and was heard by visitors.
+<PLAYER> Sarah, any news I should know? Heard anything about the fox?
+<NPC>(Sarah) Morning, Acool. Need eggs or just company?
+<END>
+
+<CONTEXT> Player snapped at Jacky near the west path. Word reached the garden and church. Some said the west gate hinges squeaked louder than usual.
+<PLAYER> Jacky, is Mr Dawson in the garden today? Need me to carry something?
+<NPC>(Jacky) Stand straight and speak plain. Apology accepted when it sounds real.
+<END>
+
+<CONTEXT> Someone claimed the well water tasted sweeter today; folks nodded. Talk spread about a fox sighting near Sarah’s fields.
+<PLAYER> Tom, seen Sarah around?
+<NPC>(Tom) Need something fixed? Point me at it and mind your fingers.
+<END>
+
+<CONTEXT> Player complimented Sarah’s hens; the porch chat turned cheerful. Some said the west gate hinges squeaked louder than usual.
+<PLAYER> Mr Dawson, how are the chickens holding up? Think I should speak to Father Jacob?
+<NPC>(Mr Dawson) The garden is calm. Reputation, like roses, rewards patience.
+<END>
+
+<CONTEXT> Someone claimed the well water tasted sweeter today; folks nodded.
+<PLAYER> Hello Father Jacob. Need a hand with anything?
+<NPC>(Father Jacob) The doors are open. What weighs on you this morning?
+<END>
+
+<CONTEXT> Breeze carried the sound of hammering from Tom’s site; routine work.
+<PLAYER> Father Jacob, where’s the busiest spot today? Need me to carry something?
+<NPC>(Father Jacob) The doors are open. What weighs on you this morning?
+<END>
+
+<CONTEXT> Morning sun felt warmer than usual; everyone kept to their chores.
+<PLAYER> Sarah, any news I should know? Need me to carry something?
+<NPC>(Sarah) Morning, Acool. Need eggs or just company?
+<END>
+
+<CONTEXT> Player spoke bluntly to Mr Dawson by the hedge. Neighbors whispered over the fence.
+<PLAYER> Father Jacob, what’s Tom fixing behind the church? Think I should speak to Father Jacob?
+<NPC>(Father Jacob) The doors are open. What weighs on you this morning?
+<END>
+
+<CONTEXT> Player apologized to Sarah under the balcony; her laughter lightened the mood.
+<PLAYER> Sarah, did you hear that rumor about the wagon? Heard anything about the fox?
+<NPC>(Sarah) It’s alright. Help me scatter feed and we’ll forget it.
+<END>
+
+<CONTEXT> Player snapped at Jacky near the west path. Word reached the garden and church.
+<PLAYER> Jacky, I’m sorry for barking at you.
+<NPC>(Jacky) Don’t make a habit of it. We’re fine.
+<END>
+
+<CONTEXT> Morning sun felt warmer than usual; everyone kept to their chores.
+<PLAYER> Mr Dawson, any news I should know? Think I should speak to Father Jacob?
+<NPC>(Mr Dawson) The garden is calm. Reputation, like roses, rewards patience.
+<END>
+
+<CONTEXT> Player apologized to Tom near the scaffolding; laborers passed the word along.
+<PLAYER> Sarah, mind a quick word about the village talk? Need me to carry something?
+<NPC>(Sarah) Morning, Acool. Need eggs or just company?
+<END>
+
+<CONTEXT> Player complimented Sarah’s hens; the porch chat turned cheerful. Some said the west gate hinges squeaked louder than usual.
+<PLAYER> Hey Tom, about earlier—are we okay? Think I should speak to Father Jacob?
+<NPC>(Tom) Need something fixed? Point me at it and mind your fingers.
+<END>
+
+<CONTEXT> Player apologized to Jacky by the gate; a couple of traders noticed.
+<PLAYER> Jacky, how’s your morning going? Any trouble near the garden?
+<NPC>(Jacky) Heard you mean it. Keep it steady and we’ll be fine.
+<END>
+
+<CONTEXT> Player stood guard with Jacky for a minute; a stablehand noticed. Some said the west gate hinges squeaked louder than usual.
+<PLAYER> Hey Jacky, about earlier—are we okay?
+<NPC>(Jacky) Routine morning. Stay clear of the hedge and keep your word.
+<END>
+
+<CONTEXT> Morning sun felt warmer than usual; everyone kept to their chores.
+<PLAYER> Sarah, sorry if I sounded off before. Think I should speak to Father Jacob?
+<NPC>(Sarah) Morning, Acool. Need eggs or just company?
+<END>
+
+<CONTEXT> Player apologized to Tom near the scaffolding; laborers passed the word along.
+<PLAYER> Tom, seen Sarah around? Any trouble near the garden?
+<NPC>(Tom) All good. Hand me those nails and we’ll call it even.
+<END>
+
+<CONTEXT> Player apologized to Father Jacob at the church door and was heard by visitors. A rumor said a merchant wagon might arrive tomorrow.
+<PLAYER> Mr Dawson, any news I should know? Is the west gate still squeaking?
+<NPC>(Mr Dawson) The garden is calm. Reputation, like roses, rewards patience.
+<END>
+
+<CONTEXT> Player helped Tom carry timber behind the church; builders spoke well of it.
+<PLAYER> Jacky, did you hear that rumor about the wagon? Any trouble near the garden?
+<NPC>(Jacky) Good lift with Tom. Less wobble at the scaffold now.
+<END>
+
+<CONTEXT> Player complimented Sarah’s hens; the porch chat turned cheerful. Some said the west gate hinges squeaked louder than usual.
+<PLAYER> Father Jacob, is Mr Dawson in the garden today? Is the west gate still squeaking?
+<NPC>(Father Jacob) The doors are open. What weighs on you this morning?
+<END>
+
+<CONTEXT> Player tidied hymn books for Father Jacob; early visitors smiled.
+<PLAYER> Tom, I’ve been trying to make things right. Heard anything about the fox?
+<NPC>(Tom) Need something fixed? Point me at it and mind your fingers.
+<END>
+
+<CONTEXT> Player made a curt remark about Sarah’s chickens. The balcony talk carried to the square. A rumor said a merchant wagon might arrive tomorrow.
+<PLAYER> Sarah, how are the chickens holding up? Is the west gate still squeaking?
+<NPC>(Sarah) My hens don’t mind, but I do. Try again with some kindness.
+<END>
+
+<CONTEXT> Breeze carried the sound of hammering from Tom’s site; routine work.
+<PLAYER> Good morning, Jacky. Got a minute? Heard anything about the fox?
+<NPC>(Jacky) Routine morning. Stay clear of the hedge and keep your word.
+<END>
+
+<CONTEXT> Player helped Tom carry timber behind the church; builders spoke well of it. Talk spread about a fox sighting near Sarah’s fields.
+<PLAYER> Mr Dawson, what’s Tom fixing behind the church? Any trouble near the garden?
+<NPC>(Mr Dawson) The garden is calm. Reputation, like roses, rewards patience.
+<END>
+
+<CONTEXT> Player apologized to Tom near the scaffolding; laborers passed the word along.
+<PLAYER> Tom, seen Sarah around? Need me to carry something?
+<NPC>(Tom) All good. Hand me those nails and we’ll call it even.
+<END>
+
+<CONTEXT> The village talked about a stray dog in the east lane; nothing serious. They whispered that the bell rope frayed again at the church.
+<PLAYER> Hello Mr Dawson. Need a hand with anything? Think I should speak to Father Jacob?
+<NPC>(Mr Dawson) The garden is calm. Reputation, like roses, rewards patience.
+<END>
+
+<CONTEXT> Breeze carried the sound of hammering from Tom’s site; routine work. Some said the west gate hinges squeaked louder than usual.
+<PLAYER> Jacky, is Father Jacob inside the church now? Is the west gate still squeaking?
+<NPC>(Jacky) Routine morning. Stay clear of the hedge and keep your word.
+<END>
+
+<CONTEXT> Player dismissed Tom’s repair advice behind the church. News traveled with the workers. They whispered that the bell rope frayed again at the church.
+<PLAYER> Jacky, sorry if I sounded off before. Need me to carry something?
+<NPC>(Jacky) Routine morning. Stay clear of the hedge and keep your word.
+<END>
+
+<CONTEXT> Player made a curt remark about Sarah’s chickens. The balcony talk carried to the square. People said Mr Dawson might sponsor fresh paint for the fence.
+<PLAYER> Mr Dawson, sorry if I sounded off before. Think I should speak to Father Jacob?
+<NPC>(Mr Dawson) The garden is calm. Reputation, like roses, rewards patience.
+<END>
+
+<CONTEXT> Player apologized to Tom near the scaffolding; laborers passed the word along.
+<PLAYER> Mr Dawson, is Father Jacob inside the church now? Think I should speak to Father Jacob?
+<NPC>(Mr Dawson) The garden is calm. Reputation, like roses, rewards patience.
+<END>
+
+<CONTEXT> Player returned Mr Dawson’s dropped handkerchief; the gardener mentioned it to the neighbors.
+<PLAYER> Tom, where’s the busiest spot today? Need me to carry something?
+<NPC>(Tom) Need something fixed? Point me at it and mind your fingers.
+<END>
+
+<CONTEXT> Player apologized to Jacky by the gate; a couple of traders noticed. Some said the west gate hinges squeaked louder than usual.
+<PLAYER> Father Jacob, any news I should know? Heard anything about the fox?
+<NPC>(Father Jacob) The doors are open. What weighs on you this morning?
+<END>
+
+<CONTEXT> Player tidied hymn books for Father Jacob; early visitors smiled. A rumor said a merchant wagon might arrive tomorrow.
+<PLAYER> Sarah, seen Sarah around? Is the west gate still squeaking?
+<NPC>(Sarah) Morning, Acool. Need eggs or just company?
+<END>
+
+<CONTEXT> Player spoke bluntly to Mr Dawson by the hedge. Neighbors whispered over the fence. Some said the west gate hinges squeaked louder than usual.
+<PLAYER> Mr Dawson, how’s your morning going? Need me to carry something?
+<NPC>(Mr Dawson) Politeness costs little, young friend. An apology would tidy this up.
+<END>
+
+<CONTEXT> Breeze carried the sound of hammering from Tom’s site; routine work. People said Mr Dawson might sponsor fresh paint for the fence.
+<PLAYER> Hey Jacky, about earlier—are we okay? Any trouble near the garden?
+<NPC>(Jacky) Routine morning. Stay clear of the hedge and keep your word.
+<END>
+
+<CONTEXT> Player spoke bluntly to Mr Dawson by the hedge. Neighbors whispered over the fence. People said Mr Dawson might sponsor fresh paint for the fence.
+<PLAYER> Father Jacob, any news I should know?
+<NPC>(Father Jacob) The doors are open. What weighs on you this morning?
+<END>
+
+<CONTEXT> Player tidied hymn books for Father Jacob; early visitors smiled. Talk spread about a fox sighting near Sarah’s fields.
+<PLAYER> Hello Jacky. Need a hand with anything? Heard anything about the fox?
+<NPC>(Jacky) If you see the fox, shout. I’ll handle the gate.
+<END>
+
+<CONTEXT> Player made a curt remark about Sarah’s chickens. The balcony talk carried to the square.
+<PLAYER> Mr Dawson, how’s your morning going?
+<NPC>(Mr Dawson) The garden is calm. Reputation, like roses, rewards patience.
+<END>
+
+<CONTEXT> Player dismissed Tom’s repair advice behind the church. News traveled with the workers. They whispered that the bell rope frayed again at the church.
+<PLAYER> Mr Dawson, what’s Tom fixing behind the church? Any trouble near the garden?
+<NPC>(Mr Dawson) The garden is calm. Reputation, like roses, rewards patience.
+<END>
+
+<CONTEXT> Player made a curt remark about Sarah’s chickens. The balcony talk carried to the square. Talk spread about a fox sighting near Sarah’s fields.
+<PLAYER> Father Jacob, how’s your morning going?
+<NPC>(Father Jacob) Guard your tongue with neighbors. A kind word mends fences.
+<END>
+
+<CONTEXT> Player tidied hymn books for Father Jacob; early visitors smiled. A rumor said a merchant wagon might arrive tomorrow.
+<PLAYER> Hello Father Jacob. Need a hand with anything? Is the west gate still squeaking?
+<NPC>(Father Jacob) The hymn books are tidy; the bell rope needs care again.
+<END>
+
+<CONTEXT> Player tidied hymn books for Father Jacob; early visitors smiled. Some said the west gate hinges squeaked louder than usual.
+<PLAYER> Hello Tom. Need a hand with anything? Need me to carry something?
+<NPC>(Tom) Need something fixed? Point me at it and mind your fingers.
+<END>
+
+<CONTEXT> Player apologized to Mr Dawson in his garden; the gardener nodded in approval.
+<PLAYER> Father Jacob, is Father Jacob inside the church now? Think I should speak to Father Jacob?
+<NPC>(Father Jacob) The doors are open. What weighs on you this morning?
+<END>
+
+<CONTEXT> Player apologized to Tom near the scaffolding; laborers passed the word along.
+<PLAYER> Mr Dawson, sorry if I sounded off before. Any trouble near the garden?
+<NPC>(Mr Dawson) The garden is calm. Reputation, like roses, rewards patience.
+<END>
+
+<CONTEXT> Player returned Mr Dawson’s dropped handkerchief; the gardener mentioned it to the neighbors.
+<PLAYER> Mr Dawson, did you hear that rumor about the wagon? Is the west gate still squeaking?
+<NPC>(Mr Dawson) Yes, thank you again for the handkerchief. Small graces matter.
+<END>
+
+<CONTEXT> Player apologized to Tom near the scaffolding; laborers passed the word along. Talk spread about a fox sighting near Sarah’s fields.
+<PLAYER> Father Jacob, I’ve been trying to make things right.
+<NPC>(Father Jacob) The doors are open. What weighs on you this morning?
+<END>
+
+<CONTEXT> Player complimented Sarah’s hens; the porch chat turned cheerful. Talk spread about a fox sighting near Sarah’s fields.
+<PLAYER> Jacky, is Mr Dawson in the garden today? Heard anything about the fox?
+<NPC>(Jacky) If you see the fox, shout. I’ll handle the gate.
+<END>
+
+<CONTEXT> No major events; only light chatter about bread smells near Sarah’s porch. A rumor said a merchant wagon might arrive tomorrow.
+<PLAYER> Good morning, Jacky. Got a minute? Think I should speak to Father Jacob?
+<NPC>(Jacky) Routine morning. Stay clear of the hedge and keep your word.
+<END>
+
+<CONTEXT> No major events; only light chatter about bread smells near Sarah’s porch.
+<PLAYER> Mr Dawson, can I trim the hedge tip that blocks your view?
+<NPC>(Mr Dawson) Gently, please. The world is framed just so.
+<END>
+
+<CONTEXT> The village talked about a stray dog in the east lane; nothing serious.
+<PLAYER> Good morning, Sarah. Got a minute?
+<NPC>(Sarah) Morning, Acool. Need eggs or just company?
+<END>
+
+<CONTEXT> No major events; only light chatter about bread smells near Sarah’s porch.
+<PLAYER> Hey Father Jacob, about earlier—are we okay? Need me to carry something?
+<NPC>(Father Jacob) The doors are open. What weighs on you this morning?
+<END>
+
+<CONTEXT> Player helped Tom carry timber behind the church; builders spoke well of it.
+<PLAYER> Hello Tom. Need a hand with anything? Need me to carry something?
+<NPC>(Tom) Noise means progress. I’ll have the east wall straight by noon.
+<END>
+
+<CONTEXT> Player apologized to Sarah under the balcony; her laughter lightened the mood.
+<PLAYER> Tom, I’ve been trying to make things right. Any trouble near the garden?
+<NPC>(Tom) Need something fixed? Point me at it and mind your fingers.
+<END>
+
+<CONTEXT> Player helped Tom carry timber behind the church; builders spoke well of it. Talk spread about a fox sighting near Sarah’s fields.
+<PLAYER> Mr Dawson, what’s Tom fixing behind the church?
+<NPC>(Mr Dawson) The garden is calm. Reputation, like roses, rewards patience.
+<END>
+
+<CONTEXT> Player dismissed Tom’s repair advice behind the church. News traveled with the workers.
+<PLAYER> Hey Tom, about earlier—are we okay? Is the west gate still squeaking?
+<NPC>(Tom) Say sorry, then grab a plank. Work clears the air.
+<END>
+
+<CONTEXT> Player apologized to Father Jacob at the church door and was heard by visitors. People said Mr Dawson might sponsor fresh paint for the fence.
+<PLAYER> Tom, any news I should know? Any trouble near the garden?
+<NPC>(Tom) Need something fixed? Point me at it and mind your fingers.
+<END>
+
+<CONTEXT> Player complimented Sarah’s hens; the porch chat turned cheerful. Talk spread about a fox sighting near Sarah’s fields.
+<PLAYER> Father Jacob, how are the chickens holding up? Any trouble near the garden?
+<NPC>(Father Jacob) The doors are open. What weighs on you this morning?
+<END>
+
+<CONTEXT> Player apologized to Mr Dawson in his garden; the gardener nodded in approval. A rumor said a merchant wagon might arrive tomorrow.
+<PLAYER> Father Jacob, is Father Jacob inside the church now?
+<NPC>(Father Jacob) The doors are open. What weighs on you this morning?
+<END>
+
+<CONTEXT> Player snapped at Jacky near the west path. Word reached the garden and church. Some said the west gate hinges squeaked louder than usual.
+<PLAYER> Mr Dawson, mind a quick word about the village talk? Think I should speak to Father Jacob?
+<NPC>(Mr Dawson) The garden is calm. Reputation, like roses, rewards patience.
+<END>
+
+<CONTEXT> Player tidied hymn books for Father Jacob; early visitors smiled.
+<PLAYER> Jacky, how are the chickens holding up? Is the west gate still squeaking?
+<NPC>(Jacky) Routine morning. Stay clear of the hedge and keep your word.
+<END>
+
+<CONTEXT> Player stood guard with Jacky for a minute; a stablehand noticed. Talk spread about a fox sighting near Sarah’s fields.
+<PLAYER> Jacky, seen Sarah around? Any trouble near the garden?
+<NPC>(Jacky) If you see the fox, shout. I’ll handle the gate.
+<END>
+
+<CONTEXT> Player returned Mr Dawson’s dropped handkerchief; the gardener mentioned it to the neighbors. They whispered that the bell rope frayed again at the church.
+<PLAYER> Good morning, Jacky. Got a minute? Is the west gate still squeaking?
+<NPC>(Jacky) Routine morning. Stay clear of the hedge and keep your word.
+<END>
+
+<CONTEXT> Someone claimed the well water tasted sweeter today; folks nodded. Some said the west gate hinges squeaked louder than usual.
+<PLAYER> Jacky, is Father Jacob inside the church now?
+<NPC>(Jacky) Routine morning. Stay clear of the hedge and keep your word.
+<END>
+
+<CONTEXT> Player apologized to Tom near the scaffolding; laborers passed the word along. Some said the west gate hinges squeaked louder than usual.
+<PLAYER> Sarah, I’ve been trying to make things right. Need me to carry something?
+<NPC>(Sarah) Morning, Acool. Need eggs or just company?
+<END>
+
+<CONTEXT> Morning sun felt warmer than usual; everyone kept to their chores. People said Mr Dawson might sponsor fresh paint for the fence.
+<PLAYER> Father Jacob, did you hear that rumor about the wagon? Need me to carry something?
+<NPC>(Father Jacob) The doors are open. What weighs on you this morning?
+<END>
+
+<CONTEXT> Player dismissed Tom’s repair advice behind the church. News traveled with the workers.
+<PLAYER> Mr Dawson, I’ve been trying to make things right. Any trouble near the garden?
+<NPC>(Mr Dawson) The garden is calm. Reputation, like roses, rewards patience.
+<END>
+
+<CONTEXT> Player spoke bluntly to Mr Dawson by the hedge. Neighbors whispered over the fence.
+<PLAYER> Father Jacob, how are the chickens holding up? Think I should speak to Father Jacob?
+<NPC>(Father Jacob) The doors are open. What weighs on you this morning?
+<END>
+
+<CONTEXT> Player made a curt remark about Sarah’s chickens. The balcony talk carried to the square. A rumor said a merchant wagon might arrive tomorrow.
+<PLAYER> Tom, what’s Tom fixing behind the church? Need me to carry something?
+<NPC>(Tom) Need something fixed? Point me at it and mind your fingers.
+<END>
+
+<CONTEXT> Player was rude to Father Jacob this morning. Rumors spread quickly among the villagers. People said Mr Dawson might sponsor fresh paint for the fence.
+<PLAYER> Sarah, mind a quick word about the village talk?
+<NPC>(Sarah) They’re good men. Make it right and I’ll save you a slice of bread.
+<END>
+
+<CONTEXT> Player apologized to Father Jacob at the church door and was heard by visitors.
+<PLAYER> Mr Dawson, sorry if I sounded off before. Think I should speak to Father Jacob?
+<NPC>(Mr Dawson) The garden is calm. Reputation, like roses, rewards patience.
+<END>
+
+<CONTEXT> Player returned Mr Dawson’s dropped handkerchief; the gardener mentioned it to the neighbors. A rumor said a merchant wagon might arrive tomorrow.
+<PLAYER> Good morning, Father Jacob. Got a minute? Heard anything about the fox?
+<NPC>(Father Jacob) The doors are open. What weighs on you this morning?
+<END>
+
+<CONTEXT> Player helped Tom carry timber behind the church; builders spoke well of it.
+<PLAYER> Hey Jacky, about earlier—are we okay?
+<NPC>(Jacky) Good lift with Tom. Less wobble at the scaffold now.
+<END>
+
+<CONTEXT> The village talked about a stray dog in the east lane; nothing serious. Some said the west gate hinges squeaked louder than usual.
+<PLAYER> Mr Dawson, is Mr Dawson in the garden today? Think I should speak to Father Jacob?
+<NPC>(Mr Dawson) The garden is calm. Reputation, like roses, rewards patience.
+<END>
+
+<CONTEXT> Player apologized to Tom near the scaffolding; laborers passed the word along.
+<PLAYER> Tom, want water from the well?
+<NPC>(Tom) Yes, please. Dust makes a man older than he is.
+<END>
+
+<CONTEXT> Player stood guard with Jacky for a minute; a stablehand noticed. They whispered that the bell rope frayed again at the church.
+<PLAYER> Good morning, Sarah. Got a minute? Think I should speak to Father Jacob?
+<NPC>(Sarah) Morning, Acool. Need eggs or just company?
+<END>
+
+<CONTEXT> Player tidied hymn books for Father Jacob; early visitors smiled. People said Mr Dawson might sponsor fresh paint for the fence.
+<PLAYER> Father Jacob, where’s the busiest spot today? Heard anything about the fox?
+<NPC>(Father Jacob) The hymn books are tidy; the bell rope needs care again.
+<END>
+
+<CONTEXT> No major events; only light chatter about bread smells near Sarah’s porch.
+<PLAYER> Jacky, mind a quick word about the village talk? Heard anything about the fox?
+<NPC>(Jacky) Routine morning. Stay clear of the hedge and keep your word.
+<END>
+
+<CONTEXT> Player tidied hymn books for Father Jacob; early visitors smiled. They whispered that the bell rope frayed again at the church.
+<PLAYER> Father Jacob, how’s your morning going? Need me to carry something?
+<NPC>(Father Jacob) The hymn books are tidy; the bell rope needs care again.
+<END>
+
+<CONTEXT> Player apologized to Father Jacob at the church door and was heard by visitors. People said Mr Dawson might sponsor fresh paint for the fence.
+<PLAYER> Father Jacob, mind a quick word about the village talk? Think I should speak to Father Jacob?
+<NPC>(Father Jacob) We are alright. Keep choosing patience; it bears fruit.
+<END>
+
+<CONTEXT> Player apologized to Mr Dawson in his garden; the gardener nodded in approval.
+<PLAYER> Mr Dawson, I’ve been trying to make things right. Is the west gate still squeaking?
+<NPC>(Mr Dawson) All is forgiven. Sit a while and let the sun do the talking.
+<END>
+
+<CONTEXT> Player apologized to Sarah under the balcony; her laughter lightened the mood. Talk spread about a fox sighting near Sarah’s fields.
+<PLAYER> Tom, mind a quick word about the village talk? Heard anything about the fox?
+<NPC>(Tom) Need something fixed? Point me at it and mind your fingers.
+<END>
+
+<CONTEXT> Player spoke bluntly to Mr Dawson by the hedge. Neighbors whispered over the fence.
+<PLAYER> Tom, sorry if I sounded off before. Need me to carry something?
+<NPC>(Tom) Need something fixed? Point me at it and mind your fingers.
+<END>
+
+<CONTEXT> No major events; only light chatter about bread smells near Sarah’s porch.
+<PLAYER> Mr Dawson, where’s the busiest spot today?
+<NPC>(Mr Dawson) The garden is calm. Reputation, like roses, rewards patience.
+<END>
+
+<CONTEXT> Player helped Tom carry timber behind the church; builders spoke well of it. Some said the west gate hinges squeaked louder than usual.
+<PLAYER> Hello Jacky. Need a hand with anything? Think I should speak to Father Jacob?
+<NPC>(Jacky) Good lift with Tom. Less wobble at the scaffold now.
+<END>
+
+<CONTEXT> Player apologized to Mr Dawson in his garden; the gardener nodded in approval.
+<PLAYER> Father Jacob, sorry if I sounded off before. Any trouble near the garden?
+<NPC>(Father Jacob) The doors are open. What weighs on you this morning?
+<END>
+
+<CONTEXT> Player stood guard with Jacky for a minute; a stablehand noticed. People said Mr Dawson might sponsor fresh paint for the fence.
+<PLAYER> Father Jacob, how’s your morning going? Is the west gate still squeaking?
+<NPC>(Father Jacob) The doors are open. What weighs on you this morning?
+<END>
+
+<CONTEXT> The village talked about a stray dog in the east lane; nothing serious. People said Mr Dawson might sponsor fresh paint for the fence.
+<PLAYER> Hello Jacky. Need a hand with anything? Is the west gate still squeaking?
+<NPC>(Jacky) Routine morning. Stay clear of the hedge and keep your word.
+<END>
+
+<CONTEXT> Player helped Tom carry timber behind the church; builders spoke well of it. They whispered that the bell rope frayed again at the church.
+<PLAYER> Hey Jacky, about earlier—are we okay? Think I should speak to Father Jacob?
+<NPC>(Jacky) Good lift with Tom. Less wobble at the scaffold now.
+<END>
+
+<CONTEXT> Player apologized to Father Jacob at the church door and was heard by visitors.
+<PLAYER> Mr Dawson, mind a quick word about the village talk? Need me to carry something?
+<NPC>(Mr Dawson) The garden is calm. Reputation, like roses, rewards patience.
+<END>
+
+<CONTEXT> Player apologized to Jacky by the gate; a couple of traders noticed.
+<PLAYER> Father Jacob, is Father Jacob inside the church now? Is the west gate still squeaking?
+<NPC>(Father Jacob) The doors are open. What weighs on you this morning?
+<END>
+
+<CONTEXT> Breeze carried the sound of hammering from Tom’s site; routine work. Talk spread about a fox sighting near Sarah’s fields.
+<PLAYER> Mr Dawson, what’s Tom fixing behind the church?
+<NPC>(Mr Dawson) The garden is calm. Reputation, like roses, rewards patience.
+<END>
+
+<CONTEXT> Player apologized to Sarah under the balcony; her laughter lightened the mood. Talk spread about a fox sighting near Sarah’s fields.
+<PLAYER> Tom, mind a quick word about the village talk? Think I should speak to Father Jacob?
+<NPC>(Tom) Need something fixed? Point me at it and mind your fingers.
+<END>
+
+<CONTEXT> Morning sun felt warmer than usual; everyone kept to their chores. Some said the west gate hinges squeaked louder than usual.
+<PLAYER> Tom, seen Sarah around? Heard anything about the fox?
+<NPC>(Tom) Need something fixed? Point me at it and mind your fingers.
+<END>
+
+<CONTEXT> Player apologized to Sarah under the balcony; her laughter lightened the mood. Talk spread about a fox sighting near Sarah’s fields.
+<PLAYER> Sarah, is Mr Dawson in the garden today?
+<NPC>(Sarah) It’s alright. Help me scatter feed and we’ll forget it.
+<END>
+
+<CONTEXT> Player helped Tom carry timber behind the church; builders spoke well of it.
+<PLAYER> Good morning, Sarah. Got a minute? Think I should speak to Father Jacob?
+<NPC>(Sarah) Morning, Acool. Need eggs or just company?
+<END>
+
+<CONTEXT> Talk spread about a fox sighting near Sarah’s fields.
+<PLAYER> Father Jacob, pray for the hens tonight?
+<NPC>(Father Jacob) And for the fox to find berries instead.
+<END>
+
+<CONTEXT> Player was rude to Father Jacob this morning. Rumors spread quickly among the villagers.
+<PLAYER> Father Jacob, how are the chickens holding up? Is the west gate still squeaking?
+<NPC>(Father Jacob) Peace begins with humility, Acool. I’ll listen if you speak kindly.
+<END>
+
+<CONTEXT> Player complimented Sarah’s hens; the porch chat turned cheerful.
+<PLAYER> Father Jacob, where’s the busiest spot today? Heard anything about the fox?
+<NPC>(Father Jacob) The doors are open. What weighs on you this morning?
+<END>
+
+<CONTEXT> Player helped Tom carry timber behind the church; builders spoke well of it. Some said the west gate hinges squeaked louder than usual.
+<PLAYER> Sarah, any news I should know? Think I should speak to Father Jacob?
+<NPC>(Sarah) Morning, Acool. Need eggs or just company?
+<END>
+
+<CONTEXT> Breeze carried the sound of hammering from Tom’s site; routine work.
+<PLAYER> Mr Dawson, seen Sarah around?
+<NPC>(Mr Dawson) The garden is calm. Reputation, like roses, rewards patience.
+<END>
+
+<CONTEXT> No major events; only light chatter about bread smells near Sarah’s porch. They whispered that the bell rope frayed again at the church.
+<PLAYER> Father Jacob, is Father Jacob inside the church now? Any trouble near the garden?
+<NPC>(Father Jacob) The hymn books are tidy; the bell rope needs care again.
+<END>
+
+<CONTEXT> Player was rude to Father Jacob this morning. Rumors spread quickly among the villagers. Talk spread about a fox sighting near Sarah’s fields.
+<PLAYER> Father Jacob, sorry if I sounded off before. Need me to carry something?
+<NPC>(Father Jacob) Peace begins with humility, Acool. I’ll listen if you speak kindly.
+<END>
+
+<CONTEXT> Player spoke bluntly to Mr Dawson by the hedge. Neighbors whispered over the fence.
+<PLAYER> Mr Dawson, mind a quick word about the village talk?
+<NPC>(Mr Dawson) Politeness costs little, young friend. An apology would tidy this up.
+<END>
+
+<CONTEXT> Player apologized to Jacky by the gate; a couple of traders noticed. People said Mr Dawson might sponsor fresh paint for the fence.
+<PLAYER> Jacky, is Mr Dawson in the garden today? Is the west gate still squeaking?
+<NPC>(Jacky) Heard you mean it. Keep it steady and we’ll be fine.
+<END>
+
+<CONTEXT> Player apologized to Father Jacob at the church door and was heard by visitors.
+<PLAYER> Mr Dawson, any news I should know? Think I should speak to Father Jacob?
+<NPC>(Mr Dawson) The garden is calm. Reputation, like roses, rewards patience.
+<END>
+
+<CONTEXT> Player apologized to Mr Dawson in his garden; the gardener nodded in approval.
+<PLAYER> Mr Dawson, where’s the busiest spot today? Heard anything about the fox?
+<NPC>(Mr Dawson) All is forgiven. Sit a while and let the sun do the talking.
+<END>
+
+<CONTEXT> Player stood guard with Jacky for a minute; a stablehand noticed. Talk spread about a fox sighting near Sarah’s fields.
+<PLAYER> Sarah, what’s Tom fixing behind the church? Any trouble near the garden?
+<NPC>(Sarah) I heard about the fox. I’ll keep the coop latched tight.
+<END>
+
+<CONTEXT> No major events; only light chatter about bread smells near Sarah’s porch.
+<PLAYER> Hello Mr Dawson. Need a hand with anything?
+<NPC>(Mr Dawson) The garden is calm. Reputation, like roses, rewards patience.
+<END>
+
+<CONTEXT> Player dismissed Tom’s repair advice behind the church. News traveled with the workers. They whispered that the bell rope frayed again at the church.
+<PLAYER> Tom, sorry if I sounded off before. Need me to carry something?
+<NPC>(Tom) Say sorry, then grab a plank. Work clears the air.
+<END>
+
+<CONTEXT> Player apologized to Sarah under the balcony; her laughter lightened the mood.
+<PLAYER> Mr Dawson, did you hear that rumor about the wagon? Is the west gate still squeaking?
+<NPC>(Mr Dawson) The garden is calm. Reputation, like roses, rewards patience.
+<END>
+
+<CONTEXT> Breeze carried the sound of hammering from Tom’s site; routine work.
+<PLAYER> Father Jacob, how are the chickens holding up?
+<NPC>(Father Jacob) The doors are open. What weighs on you this morning?
+<END>
+
+<CONTEXT> Player returned Mr Dawson’s dropped handkerchief; the gardener mentioned it to the neighbors. Some said the west gate hinges squeaked louder than usual.
+<PLAYER> Sarah, mind a quick word about the village talk? Heard anything about the fox?
+<NPC>(Sarah) Morning, Acool. Need eggs or just company?
+<END>
+
+<CONTEXT> Player tidied hymn books for Father Jacob; early visitors smiled. People said Mr Dawson might sponsor fresh paint for the fence.
+<PLAYER> Hello Sarah. Need a hand with anything? Any trouble near the garden?
+<NPC>(Sarah) Morning, Acool. Need eggs or just company?
+<END>
+
+<CONTEXT> Player apologized to Sarah under the balcony; her laughter lightened the mood.
+<PLAYER> Tom, mind a quick word about the village talk? Think I should speak to Father Jacob?
+<NPC>(Tom) Need something fixed? Point me at it and mind your fingers.
+<END>
+
+<CONTEXT> Morning sun felt warmer than usual; everyone kept to their chores.
+<PLAYER> Hey Mr Dawson, about earlier—are we okay? Think I should speak to Father Jacob?
+<NPC>(Mr Dawson) The garden is calm. Reputation, like roses, rewards patience.
+<END>
+
+<CONTEXT> Player apologized to Sarah under the balcony; her laughter lightened the mood. Talk spread about a fox sighting near Sarah’s fields.
+<PLAYER> Tom, seen Sarah around? Think I should speak to Father Jacob?
+<NPC>(Tom) Need something fixed? Point me at it and mind your fingers.
+<END>
+
+<CONTEXT> Player tidied hymn books for Father Jacob; early visitors smiled. A rumor said a merchant wagon might arrive tomorrow.
+<PLAYER> Mr Dawson, seen Sarah around? Any trouble near the garden?
+<NPC>(Mr Dawson) The garden is calm. Reputation, like roses, rewards patience.
+<END>
+
+<CONTEXT> Player apologized to Mr Dawson in his garden; the gardener nodded in approval.
+<PLAYER> Tom, seen Sarah around? Heard anything about the fox?
+<NPC>(Tom) Need something fixed? Point me at it and mind your fingers.
+<END>
+
+<CONTEXT> Player returned Mr Dawson’s dropped handkerchief; the gardener mentioned it to the neighbors. Talk spread about a fox sighting near Sarah’s fields.
+<PLAYER> Sarah, mind a quick word about the village talk? Heard anything about the fox?
+<NPC>(Sarah) I heard about the fox. I’ll keep the coop latched tight.
+<END>
+
+<CONTEXT> Player stood guard with Jacky for a minute; a stablehand noticed.
+<PLAYER> Jacky, I’ve been trying to make things right. Is the west gate still squeaking?
+<NPC>(Jacky) Routine morning. Stay clear of the hedge and keep your word.
+<END>
+
+<CONTEXT> Player was rude to Father Jacob this morning. Rumors spread quickly among the villagers.
+<PLAYER> Mr Dawson, seen Sarah around? Think I should speak to Father Jacob?
+<NPC>(Mr Dawson) A word with the priest would heal more than your standing.
+<END>
+
+<CONTEXT> The village talked about a stray dog in the east lane; nothing serious.
+<PLAYER> Hello Father Jacob. Need a hand with anything? Think I should speak to Father Jacob?
+<NPC>(Father Jacob) The doors are open. What weighs on you this morning?
+<END>
+
+<CONTEXT> No major events; only light chatter about bread smells near Sarah’s porch. Talk spread about a fox sighting near Sarah’s fields.
+<PLAYER> Hey Mr Dawson, about earlier—are we okay? Need me to carry something?
+<NPC>(Mr Dawson) The garden is calm. Reputation, like roses, rewards patience.
+<END>
+
+<CONTEXT> Player complimented Sarah’s hens; the porch chat turned cheerful.
+<PLAYER> Tom, seen Sarah around? Heard anything about the fox?
+<NPC>(Tom) Need something fixed? Point me at it and mind your fingers.
+<END>
+
+<CONTEXT> Player returned Mr Dawson’s dropped handkerchief; the gardener mentioned it to the neighbors.
+<PLAYER> Hey Father Jacob, about earlier—are we okay? Think I should speak to Father Jacob?
+<NPC>(Father Jacob) The doors are open. What weighs on you this morning?
+<END>
+
+<CONTEXT> Morning sun felt warmer than usual; everyone kept to their chores. A rumor said a merchant wagon might arrive tomorrow.
+<PLAYER> Father Jacob, mind a quick word about the village talk? Think I should speak to Father Jacob?
+<NPC>(Father Jacob) The doors are open. What weighs on you this morning?
+<END>
+
+<CONTEXT> Player was rude to Father Jacob this morning. Rumors spread quickly among the villagers. They whispered that the bell rope frayed again at the church.
+<PLAYER> Jacky, what’s Tom fixing behind the church? Need me to carry something?
+<NPC>(Jacky) You can’t be talking to Father Jacob like that. Fix it today.
+<END>
+
+<CONTEXT> No major events; only light chatter about bread smells near Sarah’s porch. Talk spread about a fox sighting near Sarah’s fields.
+<PLAYER> Hey Mr Dawson, about earlier—are we okay? Any trouble near the garden?
+<NPC>(Mr Dawson) The garden is calm. Reputation, like roses, rewards patience.
+<END>
+
+<CONTEXT> Someone claimed the well water tasted sweeter today; folks nodded.
+<PLAYER> Sarah, is Mr Dawson in the garden today? Any trouble near the garden?
+<NPC>(Sarah) Morning, Acool. Need eggs or just company?
+<END>
+
+<CONTEXT> Breeze carried the sound of hammering from Tom’s site; routine work.
+<PLAYER> Father Jacob, is Mr Dawson in the garden today? Need me to carry something?
+<NPC>(Father Jacob) The doors are open. What weighs on you this morning?
+<END>
+
+<CONTEXT> Player made a curt remark about Sarah’s chickens. The balcony talk carried to the square. Some said the west gate hinges squeaked louder than usual.
+<PLAYER> Hello Sarah. Need a hand with anything? Think I should speak to Father Jacob?
+<NPC>(Sarah) My hens don’t mind, but I do. Try again with some kindness.
+<END>
+
+<CONTEXT> Someone claimed the well water tasted sweeter today; folks nodded.
+<PLAYER> Sarah, is Father Jacob inside the church now? Need me to carry something?
+<NPC>(Sarah) Morning, Acool. Need eggs or just company?
+<END>
+
+<CONTEXT> Player stood guard with Jacky for a minute; a stablehand noticed. Some said the west gate hinges squeaked louder than usual.
+<PLAYER> Jacky, mind a quick word about the village talk? Is the west gate still squeaking?
+<NPC>(Jacky) Routine morning. Stay clear of the hedge and keep your word.
+<END>
+
+<CONTEXT> Player complimented Sarah’s hens; the porch chat turned cheerful.
+<PLAYER> Jacky, sorry if I sounded off before.
+<NPC>(Jacky) Routine morning. Stay clear of the hedge and keep your word.
+<END>
+
+<CONTEXT> The village talked about a stray dog in the east lane; nothing serious.
+<PLAYER> Jacky, mind a quick word about the village talk? Heard anything about the fox?
+<NPC>(Jacky) Routine morning. Stay clear of the hedge and keep your word.
+<END>
+
+<CONTEXT> Player complimented Sarah’s hens; the porch chat turned cheerful.
+<PLAYER> Hello Sarah. Need a hand with anything? Think I should speak to Father Jacob?
+<NPC>(Sarah) They like the morning sun as much as I do. Thanks for noticing.
+<END>
+
+<CONTEXT> Player stood guard with Jacky for a minute; a stablehand noticed.
+<PLAYER> Sarah, any news I should know? Think I should speak to Father Jacob?
+<NPC>(Sarah) Morning, Acool. Need eggs or just company?
+<END>
+
+<CONTEXT> Player stood guard with Jacky for a minute; a stablehand noticed.
+<PLAYER> Father Jacob, is Father Jacob inside the church now? Heard anything about the fox?
+<NPC>(Father Jacob) The doors are open. What weighs on you this morning?
+<END>
+
+<CONTEXT> Player returned Mr Dawson’s dropped handkerchief; the gardener mentioned it to the neighbors.
+<PLAYER> Mr Dawson, did you hear that rumor about the wagon? Need me to carry something?
+<NPC>(Mr Dawson) Yes, thank you again for the handkerchief. Small graces matter.
+<END>
+
+<CONTEXT> No major events; only light chatter about bread smells near Sarah’s porch. They whispered that the bell rope frayed again at the church.
+<PLAYER> Mr Dawson, any news I should know?
+<NPC>(Mr Dawson) The garden is calm. Reputation, like roses, rewards patience.
+<END>
+
+<CONTEXT> Player spoke bluntly to Mr Dawson by the hedge. Neighbors whispered over the fence. A rumor said a merchant wagon might arrive tomorrow.
+<PLAYER> Tom, sorry if I sounded off before. Heard anything about the fox?
+<NPC>(Tom) Need something fixed? Point me at it and mind your fingers.
+<END>
+
+<CONTEXT> Player was rude to Father Jacob this morning. Rumors spread quickly among the villagers.
+<PLAYER> Mr Dawson, is Mr Dawson in the garden today? Need me to carry something?
+<NPC>(Mr Dawson) A word with the priest would heal more than your standing.
+<END>
+
+<CONTEXT> Player spoke bluntly to Mr Dawson by the hedge. Neighbors whispered over the fence.
+<PLAYER> Sarah, did you hear that rumor about the wagon? Is the west gate still squeaking?
+<NPC>(Sarah) They’re good men. Make it right and I’ll save you a slice of bread.
+<END>
+
+<CONTEXT> Player stood guard with Jacky for a minute; a stablehand noticed. A rumor said a merchant wagon might arrive tomorrow.
+<PLAYER> Good morning, Mr Dawson. Got a minute? Heard anything about the fox?
+<NPC>(Mr Dawson) The garden is calm. Reputation, like roses, rewards patience.
+<END>
+
+<CONTEXT> Player dismissed Tom’s repair advice behind the church. News traveled with the workers. People said Mr Dawson might sponsor fresh paint for the fence.
+<PLAYER> Sarah, how are the chickens holding up? Any trouble near the garden?
+<NPC>(Sarah) Morning, Acool. Need eggs or just company?
+<END>
+
+<CONTEXT> Someone claimed the well water tasted sweeter today; folks nodded.
+<PLAYER> Father Jacob, I’ve been trying to make things right.
+<NPC>(Father Jacob) The doors are open. What weighs on you this morning?
+<END>
+
+<CONTEXT> Player spoke bluntly to Mr Dawson by the hedge. Neighbors whispered over the fence. A rumor said a merchant wagon might arrive tomorrow.
+<PLAYER> Hey Tom, about earlier—are we okay? Any trouble near the garden?
+<NPC>(Tom) Need something fixed? Point me at it and mind your fingers.
+<END>
+
+<CONTEXT> Player returned Mr Dawson’s dropped handkerchief; the gardener mentioned it to the neighbors.
+<PLAYER> Mr Dawson, I folded it the right way this time.
+<NPC>(Mr Dawson) Perfect corners reflect a steady heart.
+<END>
+
+<CONTEXT> Player helped Tom carry timber behind the church; builders spoke well of it.
+<PLAYER> Sarah, what’s Tom fixing behind the church? Any trouble near the garden?
+<NPC>(Sarah) Morning, Acool. Need eggs or just company?
+<END>
+
+<CONTEXT> Player returned Mr Dawson’s dropped handkerchief; the gardener mentioned it to the neighbors.
+<PLAYER> Mr Dawson, how are the chickens holding up? Heard anything about the fox?
+<NPC>(Mr Dawson) Yes, thank you again for the handkerchief. Small graces matter.
+<END>
+
+<CONTEXT> Breeze carried the sound of hammering from Tom’s site; routine work. Talk spread about a fox sighting near Sarah’s fields.
+<PLAYER> Father Jacob, any news I should know? Need me to carry something?
+<NPC>(Father Jacob) The doors are open. What weighs on you this morning?
+<END>
+
+<CONTEXT> Player helped Tom carry timber behind the church; builders spoke well of it. Talk spread about a fox sighting near Sarah’s fields.
+<PLAYER> Tom, where’s the busiest spot today? Any trouble near the garden?
+<NPC>(Tom) Noise means progress. I’ll have the east wall straight by noon.
+<END>
+
+<CONTEXT> Player complimented Sarah’s hens; the porch chat turned cheerful.
+<PLAYER> Mr Dawson, what’s Tom fixing behind the church?
+<NPC>(Mr Dawson) The garden is calm. Reputation, like roses, rewards patience.
+<END>
+
+<CONTEXT> Breeze carried the sound of hammering from Tom’s site; routine work.
+<PLAYER> Sarah, did you hear that rumor about the wagon? Think I should speak to Father Jacob?
+<NPC>(Sarah) Morning, Acool. Need eggs or just company?
+<END>
+
+<CONTEXT> Player stood guard with Jacky for a minute; a stablehand noticed. Talk spread about a fox sighting near Sarah’s fields.
+<PLAYER> Jacky, is Father Jacob inside the church now? Any trouble near the garden?
+<NPC>(Jacky) If you see the fox, shout. I’ll handle the gate.
+<END>
+
+<CONTEXT> Breeze carried the sound of hammering from Tom’s site; routine work. People said Mr Dawson might sponsor fresh paint for the fence.
+<PLAYER> Jacky, is Father Jacob inside the church now? Heard anything about the fox?
+<NPC>(Jacky) Routine morning. Stay clear of the hedge and keep your word.
+<END>
+
+<CONTEXT> Player apologized to Sarah under the balcony; her laughter lightened the mood. People said Mr Dawson might sponsor fresh paint for the fence.
+<PLAYER> Father Jacob, mind a quick word about the village talk?
+<NPC>(Father Jacob) The doors are open. What weighs on you this morning?
+<END>
+
+<CONTEXT> Player apologized to Father Jacob at the church door and was heard by visitors. They whispered that the bell rope frayed again at the church.
+<PLAYER> Good morning, Jacky. Got a minute? Think I should speak to Father Jacob?
+<NPC>(Jacky) Routine morning. Stay clear of the hedge and keep your word.
+<END>
+
+<CONTEXT> Player apologized to Father Jacob at the church door and was heard by visitors. Some said the west gate hinges squeaked louder than usual.
+<PLAYER> Tom, mind a quick word about the village talk?
+<NPC>(Tom) Need something fixed? Point me at it and mind your fingers.
+<END>
+
+<CONTEXT> Player tidied hymn books for Father Jacob; early visitors smiled.
+<PLAYER> Father Jacob, did you hear that rumor about the wagon? Is the west gate still squeaking?
+<NPC>(Father Jacob) The hymn books are tidy; the bell rope needs care again.
+<END>
+
+<CONTEXT> Player made a curt remark about Sarah’s chickens. The balcony talk carried to the square.
+<PLAYER> Good morning, Mr Dawson. Got a minute? Heard anything about the fox?
+<NPC>(Mr Dawson) The garden is calm. Reputation, like roses, rewards patience.
+<END>
+
+<CONTEXT> Someone claimed the well water tasted sweeter today; folks nodded. Talk spread about a fox sighting near Sarah’s fields.
+<PLAYER> Sarah, where’s the busiest spot today? Need me to carry something?
+<NPC>(Sarah) I heard about the fox. I’ll keep the coop latched tight.
+<END>
+
+<CONTEXT> Player was rude to Father Jacob this morning. Rumors spread quickly among the villagers. Talk spread about a fox sighting near Sarah’s fields.
+<PLAYER> Father Jacob, sorry if I sounded off before. Heard anything about the fox?
+<NPC>(Father Jacob) Peace begins with humility, Acool. I’ll listen if you speak kindly.
+<END>
+
+<CONTEXT> Player stood guard with Jacky for a minute; a stablehand noticed.
+<PLAYER> Father Jacob, seen Sarah around? Is the west gate still squeaking?
+<NPC>(Father Jacob) The doors are open. What weighs on you this morning?
+<END>
+
+<CONTEXT> Player apologized to Jacky by the gate; a couple of traders noticed. A rumor said a merchant wagon might arrive tomorrow.
+<PLAYER> Good morning, Sarah. Got a minute? Heard anything about the fox?
+<NPC>(Sarah) Morning, Acool. Need eggs or just company?
+<END>
+
+<CONTEXT> Morning sun felt warmer than usual; everyone kept to their chores. A rumor said a merchant wagon might arrive tomorrow.
+<PLAYER> Father Jacob, how’s your morning going? Heard anything about the fox?
+<NPC>(Father Jacob) The doors are open. What weighs on you this morning?
+<END>
+
+<CONTEXT> Player apologized to Tom near the scaffolding; laborers passed the word along.
+<PLAYER> Sarah, any news I should know? Need me to carry something?
+<NPC>(Sarah) Morning, Acool. Need eggs or just company?
+<END>
+
+<CONTEXT> Player was rude to Father Jacob this morning. Rumors spread quickly among the villagers. Some said the west gate hinges squeaked louder than usual.
+<PLAYER> Good morning, Father Jacob. Got a minute?
+<NPC>(Father Jacob) Peace begins with humility, Acool. I’ll listen if you speak kindly.
+<END>
+
+<CONTEXT> Player helped Tom carry timber behind the church; builders spoke well of it.
+<PLAYER> Father Jacob, mind a quick word about the village talk? Need me to carry something?
+<NPC>(Father Jacob) The doors are open. What weighs on you this morning?
+<END>
+
+<CONTEXT> Morning sun felt warmer than usual; everyone kept to their chores.
+<PLAYER> Sarah, how are the chickens holding up? Is the west gate still squeaking?
+<NPC>(Sarah) Morning, Acool. Need eggs or just company?
+<END>
+
+<CONTEXT> Player made a curt remark about Sarah’s chickens. The balcony talk carried to the square. People said Mr Dawson might sponsor fresh paint for the fence.
+<PLAYER> Sarah, mind a quick word about the village talk? Need me to carry something?
+<NPC>(Sarah) My hens don’t mind, but I do. Try again with some kindness.
+<END>
