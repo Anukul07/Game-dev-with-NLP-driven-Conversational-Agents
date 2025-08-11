@@ -59,6 +59,10 @@ python app.py
 Open Unity Hub and add the UnityProject folder.
 Press Play in Unity Editor to test NPC conversations.
 
+### Model : DistilGPT-2
+Visit the following link and download distilgpt2-finetuned model, and place the folder inside backend\saved_models
+https://drive.google.com/drive/folders/1jMuS_v1-rcdCjRhxGqTr3pfOSOkBOlKk?usp=sharing
+
 📊 AI Model Metrics
 Evaluation Loss: 0.2944
 
